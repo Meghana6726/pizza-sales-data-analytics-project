@@ -58,4 +58,4 @@ The final dashboard provides comprehensive insights into sales performance, high
 # Snapshot of Dashboard
 ![Screenshot (4)](https://github.com/user-attachments/assets/2c7940fa-ce05-4214-9164-d75ad39b9a43)
 
-![Screenshot 2025-01-06 122327](https://github.com/user-attachments/assets/74a07ee4-4ee2-4415-aaab-507821078094)
+![Screenshot (5)](https://github.com/user-attachments/assets/26246815-efbd-48e4-a773-a4429effa296)
